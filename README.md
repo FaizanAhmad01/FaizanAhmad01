@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FaizanAhmad01
-- 👀 I’m interested in writing c++ codes.
-- 🌱 I’m currently learning bachelor's in computer science from University of Central Punjab.
+- 👀 I’m interested in writing codes.
 - 💞️ I’m looking to collaborate on short projects and learn more about coding.
 - 📫 Reach me by using my Email. ( faizanahmad0@hotmail.com )
 
