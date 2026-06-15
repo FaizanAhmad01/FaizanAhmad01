@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaizanAhmad01
 - 👀 I’m interested in writing codes.
-- 💞️ I’m looking to collaborate on short projects and learn more about coding.
+- 💞️ I’m looking to collaborate on projects and learn more about coding.
 - 📫 Reach me by using my Email. ( faizanahmad0@hotmail.com )
 
 <!---
